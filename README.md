@@ -6,9 +6,9 @@ A multiplayer tabletop card battler for Windows (desktop and PCVR), Meta Quest, 
 
 **Windows / PCVR:** [Download Windows installer](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Setup-Windows.exe) (recommended). Run Setup and choose an empty writable folder on any drive. Future game updates use that folder.
 
-**Windows ZIP alternative:** [Download launcher ZIP](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Launcher-Windows.zip). Extract it and run RealmWarsLauncher.exe, keeping the configuration beside it.
+**Windows ZIP alternative:** [Download launcher ZIP](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Launcher-Windows.zip). Extract it and run RealmWarsLauncher.exe, keeping the configuration and adb folder beside it.
 
-**Meta Quest:** [Download Quest APK](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Quest.apk). Sideload with SideQuest or adb, then open Crowns and Coins from Unknown Sources. Sideloading requires Developer Mode and USB debugging.
+**Meta Quest:** [Download Quest APK](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Quest.apk). Or log in to the Windows launcher and click **Install on connected Quest** with the headset connected by USB. It downloads and verifies the APK, preserves existing app data, and lets you select a headset when several are attached. Then open Crowns and Coins from Unknown Sources. Sideloading requires Developer Mode and USB debugging.
 
 **Android phone:** [Download Android APK](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Android.apk). Open the APK on your phone and allow installation from your browser/file manager if prompted.
 
@@ -16,7 +16,7 @@ Windows Setup creates Start-menu and optional desktop shortcuts and includes an 
 
 The launchers download the current game on first launch and check for updates afterward. Use the same Crowns and Coins account on each device. Quest and phone APKs are launcher shells; their file version may be older than the game content they install.
 
-Accounts require a Gmail address and a six-digit email verification code. Windows launcher 0.5.0 handles registration and login before the game opens; Quest and phone verify in the app. Verified devices are remembered until a password change/reset or signing out all devices. Existing players keep their decks and progress. Install the latest Windows setup once to receive the new launcher login screen.
+Accounts require a Gmail address and a six-digit email verification code. Windows launcher 0.6.0 handles registration and login before the game opens; Quest and phone verify in the app. Verified devices are remembered until a password change/reset or signing out all devices. Existing players keep their decks and progress. Install the latest Windows setup once to receive the new launcher login screen and Quest install button.
 
 [All release files and checksums](https://github.com/DurusIudex/crowns-and-coins/releases/latest)
 
