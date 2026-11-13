@@ -6,9 +6,12 @@ A multiplayer tabletop card battler for Windows (desktop and PCVR), Meta Quest, 
 
 | Platform | Download | Installation |
 | --- | --- | --- |
-| Windows / PCVR | [Windows launcher](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Launcher-Windows.zip) | Extract the ZIP to its own folder. Run RealmWarsLauncher.exe. Keep the included configuration beside it. |
+| Windows / PCVR (recommended) | [Windows installer](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Setup-Windows.exe) | Run Setup, choose an empty writable folder on any drive, then launch the game. Updates use the same folder. |
+| Windows ZIP alternative | [Windows launcher](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Launcher-Windows.zip) | Extract the ZIP to its own folder. Run RealmWarsLauncher.exe. Keep the included configuration beside it. |
 | Meta Quest | [Quest launcher APK](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Quest.apk) | Sideload with SideQuest or adb, then open Crowns and Coins from Unknown Sources. Developer Mode and USB debugging are needed for sideloading. |
 | Android phone | [Android phone APK](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Android.apk) | Open the APK on your phone and allow installation from your browser/file manager if prompted. |
+
+Windows Setup creates Start-menu and optional desktop shortcuts and includes an uninstaller. Your account and separate saved games are preserved.
 
 The launchers download the current game on first launch and check for updates afterward. Use the same Crowns and Coins account on each device. Quest and phone APKs are launcher shells; their file version may be older than the game content they install.
 
