@@ -16,6 +16,8 @@ Windows Setup creates Start-menu and optional desktop shortcuts and includes an 
 
 The launchers download the current game on first launch and check for updates afterward. Use the same Crowns and Coins account on each device. Quest and phone APKs are launcher shells; their file version may be older than the game content they install.
 
+Accounts require a Gmail address and a six-digit email verification code. Windows launcher 0.5.0 handles registration and login before the game opens; Quest and phone verify in the app. Verified devices are remembered until a password change/reset or signing out all devices. Existing players keep their decks and progress. Install the latest Windows setup once to receive the new launcher login screen.
+
 [All release files and checksums](https://github.com/DurusIudex/crowns-and-coins/releases/latest)
 
 The large Windows game ZIP is also available in the release assets for manual installation. PCK files are automatic-update data, not standalone installers.
