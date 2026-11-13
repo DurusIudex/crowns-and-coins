@@ -4,12 +4,13 @@ A multiplayer tabletop card battler for Windows (desktop and PCVR), Meta Quest, 
 
 ## Download and play
 
-| Platform | Download | Installation |
-| --- | --- | --- |
-| Windows / PCVR (recommended) | [Windows installer](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Setup-Windows.exe) | Run Setup, choose an empty writable folder on any drive, then launch the game. Updates use the same folder. |
-| Windows ZIP alternative | [Windows launcher](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Launcher-Windows.zip) | Extract the ZIP to its own folder. Run RealmWarsLauncher.exe. Keep the included configuration beside it. |
-| Meta Quest | [Quest launcher APK](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Quest.apk) | Sideload with SideQuest or adb, then open Crowns and Coins from Unknown Sources. Developer Mode and USB debugging are needed for sideloading. |
-| Android phone | [Android phone APK](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Android.apk) | Open the APK on your phone and allow installation from your browser/file manager if prompted. |
+**Windows / PCVR:** [Download Windows installer](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Setup-Windows.exe) (recommended). Run Setup and choose an empty writable folder on any drive. Future game updates use that folder.
+
+**Windows ZIP alternative:** [Download launcher ZIP](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Launcher-Windows.zip). Extract it and run RealmWarsLauncher.exe, keeping the configuration beside it.
+
+**Meta Quest:** [Download Quest APK](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Quest.apk). Sideload with SideQuest or adb, then open Crowns and Coins from Unknown Sources. Sideloading requires Developer Mode and USB debugging.
+
+**Android phone:** [Download Android APK](https://github.com/DurusIudex/crowns-and-coins/releases/latest/download/Crowns-and-Coins-Android.apk). Open the APK on your phone and allow installation from your browser/file manager if prompted.
 
 Windows Setup creates Start-menu and optional desktop shortcuts and includes an uninstaller. Your account and separate saved games are preserved.
 
